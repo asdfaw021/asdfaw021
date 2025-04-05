@@ -7,7 +7,7 @@ A coder 👨‍💻 from a small town 📍, fueled by a passion for programming 
 ## Skills & Toolbox 🛠️
 
 -   **Languages**: Java ⭐ (my core focus), some C in the past.
--   **Projects**: Built a [task manager](https://github.com/asdfaw021/taskmanager) 📁 with ArrayList and JSON saving via Gson. Next steps: Adding some database 💾 and Spring Boot 🌱.
+-   **Projects**: Built a [taskmanager](https://github.com/asdfaw021/taskmanager) 📁 with ArrayList and JSON saving via Gson. Next steps: Adding some database 💾 and Spring Boot 🌱.
 -   **Problem-Solving**: Working on problems at [LeetCode](https://leetcode.com/u/asdfaw021/) 🎯. Also reading Shildt’s *Java: The Complete Reference* 📖 and *Grokking Algorithms* 🧠 in progress.
 -   **OS**: Running Debian 12 with BSPWM 🖥️ — lightweight, customizable, and open-source.
 -   **Tools**: IntelliJ IDEA, Git, and a terminal `>_`.
